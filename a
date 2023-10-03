@@ -11,7 +11,7 @@
 									<key>kind</key>
 									<string>software-package</string>
 									<key>url</key>
-									<string>https://dl.dropboxusercontent.com/s/zazld5msddkpnq4mqaqit/YouTube_18.38.2_Social.ipa?rlkey=d0cath0ykprud7rg8zhk6l3jn&dl=0</string>
+									<string>https://github.com/Nguyenhuyhoan/Esign/raw/main/ESign.Comun.ipa</string>
 								</dict>
 								<dict>
 									<key>kind</key>
@@ -19,7 +19,7 @@
 									<key>needs-shine</key>
 									<true/>
 									<key>url</key>
-									<string>https://raw.githubusercontent.com/Nguyenhuyhoan/Yiutiubi/main/Youtube.png</string>
+									<string>https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/1.png</string>
 								</dict>
 								<dict>
 									<key>kind</key>
@@ -27,52 +27,21 @@
 									<key>needs-shine</key>
 									<true/>
 									<key>url</key>
-									<string>https://raw.githubusercontent.com/Nguyenhuyhoan/Yiutiubi/main/Youtube.png</string>
+									<string>https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/1.png</string>
 								</dict>
 							</array>
 							<key>metadata</key>
 							<dict>
 								<key>bundle-identifier</key>
-								<string>yyyy</string>
+								<string>p3.xyz.yyyue.comun</string>
 								<key>bundle-version</key>
 								<string>Vvv</string>
 								<key>kind</key>
 								<string>software</string>
 								<key>title</key>
-								<string>YaTubu</string>
+								<string>Esign Comun</string>
 							</dict>
 						</dict>
 					</array>
 				</dict>
 				</plist>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
